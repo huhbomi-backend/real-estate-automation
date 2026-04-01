@@ -38,14 +38,22 @@ CSV 데이터 자동 로드
 Python
 pandas
 openpyxl
+
 6. 프로젝트 구조
 real-estate-automation/
+
 ├─ data/
+
 │  └─ listings.csv
+
 ├─ output/
+
 │  └─ report.xlsx
+
 ├─ main.py
+
 ├─ requirements.txt
+
 └─ README.md
 
 # 7. 실행 방법
